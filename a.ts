@@ -8,3 +8,7 @@ interface b {
 }
 
 type a = keyof b
+
+interface Person {
+  name: string
+}
