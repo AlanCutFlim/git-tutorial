@@ -13,3 +13,5 @@ more edit 2
 add something to delete
 
 chq add something
+
+normal developer add something
