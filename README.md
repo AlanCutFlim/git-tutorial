@@ -14,4 +14,7 @@ add something to delete
 
 chq add something
 
+senior developer add something
+
 normal developer add something
+
