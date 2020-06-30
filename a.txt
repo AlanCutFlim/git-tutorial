@@ -1,1 +1,3 @@
 this is a txt file, update...
+
+like package-lock.json how to fix conflicts
